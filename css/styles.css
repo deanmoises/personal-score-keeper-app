@@ -1,0 +1,31 @@
+/*body {
+	background: url("https://images.unsplash.com/photo-1489850846882-35ef10a4b480?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5585741f8dadecb5d2bce51aaa272c5d&");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+
+}
+*/
+body {
+	background-image: url(https://images.pexels.com/photos/1249214/pexels-photo-1249214.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	
+}
+
+.title {
+	font-size: 5em;
+}
+
+.winner {
+	color: green;
+}
+
+#p1Display {
+	font-size: 10em;
+}
+
+#p2Display {
+	font-size: 10em;
+}
